@@ -1,5 +1,6 @@
 # onucaDetector
-Detektor ruskich onuc
+Detektor ruskich onuc.
+
 Wyraznie zaznacza onuce na nw.
 
 1. Pobierz zip (code -> zip)
