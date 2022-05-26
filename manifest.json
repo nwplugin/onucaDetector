@@ -1,0 +1,10 @@
+{
+    "name": "Onuca Detector",
+    "description": "Detector r*skich onuc",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [{
+        "matches": ["https://netwars.pl/*"],
+        "js": ["onucaDetector.js"]
+    }]
+  }
