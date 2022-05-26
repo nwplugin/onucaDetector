@@ -6,5 +6,11 @@
     "content_scripts": [{
         "matches": ["https://netwars.pl/*"],
         "js": ["onucaDetector.js"]
-    }]
+    }],
+    "icons":{
+        "16": "onucaDetector_16.png",
+        "32": "onucaDetector_32.png",
+        "48": "onucaDetector_48.png",
+        "128": "onucaDetector_128.png"
+    }
   }
